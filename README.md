@@ -11,7 +11,6 @@
 
 ### Screenshot
 
-![c941a07bca72427f_960](https://github.com/BhateshKhairnar/Bussiness-Card/assets/111328681/0bec578e-dad4-4fed-8f82-c3ed6e5db53d)
 
 ##Links
 
